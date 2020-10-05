@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+:octocat: [Source Repositories](https://github.com/CatsMiaow?tab=repositories&type=source)
+
+### :shipit: Recent Activity
+<!--START_SECTION:activity-->
+
 <!--
 **CatsMiaow/CatsMiaow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
