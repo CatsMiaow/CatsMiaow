@@ -4,11 +4,11 @@
 
 ### :shipit: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#102](https://github.com/IBM/report-toolkit/issues/102) in [IBM/report-toolkit](https://github.com/IBM/report-toolkit)
-2. 💪 Opened PR [#101](https://github.com/IBM/report-toolkit/pull/101) in [IBM/report-toolkit](https://github.com/IBM/report-toolkit)
-3. 🗣 Commented on [#1283](https://github.com/graphql/graphql-playground/issues/1283) in [graphql/graphql-playground](https://github.com/graphql/graphql-playground)
-4. 🗣 Commented on [#1094](https://github.com/iamkun/dayjs/issues/1094) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
-5. 💪 Opened PR [#1094](https://github.com/iamkun/dayjs/pull/1094) in [iamkun/dayjs](https://github.com/iamkun/dayjs)
+1. ❗️ Closed issue [#4925](https://github.com/discordjs/discord.js/issues/4925) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+2. 🗣 Commented on [#4925](https://github.com/discordjs/discord.js/issues/4925) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+3. 🗣 Commented on [#4925](https://github.com/discordjs/discord.js/issues/4925) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+4. ❗️ Opened issue [#4925](https://github.com/discordjs/discord.js/issues/4925) in [discordjs/discord.js](https://github.com/discordjs/discord.js)
+5. ❗️ Opened issue [#102](https://github.com/IBM/report-toolkit/issues/102) in [IBM/report-toolkit](https://github.com/IBM/report-toolkit)
 <!--END_SECTION:activity-->
 
 <!--
