@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://discord.com/api/guilds/81384788765712384/widget.png?style=shield" />
+<img align="right" src="https://discord.com/api/guilds/217944974640021504/widget.png?style=shield" />
 
 - :octocat: [Source Repositories](https://github.com/CatsMiaow?tab=repositories&type=source), [Gist](https://gist.github.com/CatsMiaow)
 - :shipit: [Recent Activity](https://github.com/search?&q=is%3Apublic+involves%3ACatsMiaow&type=Issues&s=created&o=desc)
